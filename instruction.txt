@@ -1,0 +1,7 @@
+git bash
+Ctrl+insert 复制
+Shift+insert 粘贴
+
+git add 加入缓冲区
+git commit 上传说明
+git push origin master 上传到远程仓库github
